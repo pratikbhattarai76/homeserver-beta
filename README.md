@@ -1,3 +1,5 @@
+# Note: This is the old version fo the Infrastructure. Latest: [View Here](https://github.com/pratikbhattarai76/private-cloud-infrastructure)
+
 # 🛡️ Pratik-Labs: Automated Hybrid-Cloud Infrastructure
 A professional-grade, high-availability home laboratory designed for **Infrastructure-as-Code (IaC)**, **Zero Trust Networking**, and **Hardware-Accelerated Media Services**.
 
